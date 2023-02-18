@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BinaryTree3.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="BinarySearchTree2.h">
+    <ClInclude Include="Tetris2.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="역전파알고리즘.c">
+    <ClCompile Include="SortAlgorithm1.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="SortAlgorithm2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

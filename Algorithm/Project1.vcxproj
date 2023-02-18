@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BinarySearchTree2.h" />
-    <ClInclude Include="BinaryTree3.h" />
+    <ClInclude Include="Tetris2.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="역전파알고리즘.c" />
+    <ClCompile Include="SortAlgorithm1.c" />
+    <ClCompile Include="SortAlgorithm2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
