@@ -22,7 +22,6 @@
     <ClInclude Include="Tetris2.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SortAlgorithm1.c" />
     <ClCompile Include="SortAlgorithm2.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

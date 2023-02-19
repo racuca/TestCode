@@ -20,9 +20,6 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SortAlgorithm1.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="SortAlgorithm2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
